@@ -1,0 +1,3 @@
+Name: Telagamsetti Bhanusreekavya
+Course: Bsc computer science
+GitHub is to develop who write code and operate who deploy/image systems
